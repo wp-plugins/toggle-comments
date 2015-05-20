@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Toggle Comments
+ * Plugin Name: Global Toggle Comments
  * Plugin URI: http://www.jackreichert.com
  * Description: Turn WordPress comment functionality on or off.
  * Version: 0.1

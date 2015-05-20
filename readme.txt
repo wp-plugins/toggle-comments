@@ -1,4 +1,4 @@
-=== Toggle Comments ===
+=== Global Toggle Comments ===
 Contributors: jackreichert
 Donate link: http://www.jackreichert.com/the-human-fund/
 Tags: comments

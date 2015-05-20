@@ -8,10 +8,10 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Toggle Comments allows you to turn WordPress comment functionality on or off.
+Toggle Comments allows you to turn globally WordPress comment functionality on or off.
 
 == Description ==
-Inspired by comment 23 on trac ticket [#27111](https://core.trac.wordpress.org/ticket/27111#comment:23) this plugin allows you to:
+Inspired by comment 23 on trac ticket [#27111](https://core.trac.wordpress.org/ticket/27111#comment:23) this plugin allows you to globally toggle comment functionality across your WordPress installation including:
 
 * Disable support for comments and trackbacks in post types	
 * Close comments on the front-end	
